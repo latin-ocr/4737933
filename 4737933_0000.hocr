@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4737933_0000.png"; bbox 0 0 3118 4012; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 659 852 2495 1974">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 659 852 2495 1974">
+     <span class='ocr_line' id='line_1_1' title="bbox 828 852 2337 1136; baseline -0.101 134"><span class='ocrx_word' id='word_1_1' title='bbox 828 852 2337 1136; x_wconf 71' lang='grc' dir='ltr'>ΜΑὸΤεη</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 659 1271 2495 1553; baseline -0.103 177"><span class='ocrx_word' id='word_1_2' title='bbox 659 1271 2495 1553; x_wconf 67' lang='grc' dir='ltr'>ΝΕΕΑΤΙνε</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 788 1694 2358 1974; baseline -0.099 109"><span class='ocrx_word' id='word_1_3' title='bbox 788 1694 1274 1972; x_wconf 82' lang='lat' dir='ltr'>Nu</span> <span class='ocrx_word' id='word_1_4' title='bbox 1624 1702 2358 1974; x_wconf 73' lang='grc' dir='ltr'>ΙΗΕ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 846 2542 2274 2820">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 846 2389 2274 2820">
+     <span class='ocr_line' id='line_1_4' title="bbox 846 2542 2274 2820; baseline -0.079 65"><span class='ocrx_word' id='word_1_5' title='bbox 846 2542 2274 2820; x_wconf 87' lang='grc'>00-253.4</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 3994 1921 4012">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 3994 1921 4012">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 3994 1921 4012; baseline -0.12 48"><span class='ocrx_word' id='word_1_6' title='bbox 0 3994 1921 4012; x_wconf 25' lang='grc' dir='ltr'>ψ-Ι-ᾑ-ῌῄῷᾲή</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
